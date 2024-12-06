@@ -6,6 +6,7 @@
 - Nodejs 
 - NPM
 - access-token from redacted website -  **this sc not supported multy accounts**
+- get token here: [https://quest.redactedairways.com](https://quest.redactedairways.com/?r=O1OJ6M)
 ![get-token](image-1.png)
 
 ## Setup
