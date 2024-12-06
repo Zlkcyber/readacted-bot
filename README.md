@@ -1,4 +1,12 @@
+# REDACTED AUTO COMPLETE TASK
+
 ![banner](image.png)
+
+## Requirements
+- Nodejs 
+- NPM
+- access-token from redacted website **this sc not supported multy account**
+![get-token](image-1.png)
 
 ## Setup
 
@@ -11,7 +19,7 @@
    ```bash
    npm install
    ```
-3. put token in token.txt:
+3. put token in token.txt: `eyJhbG....`
    ```bash
    nano token.txt
    ```
