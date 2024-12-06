@@ -5,7 +5,7 @@
 ## Requirements
 - Nodejs 
 - NPM
-- access-token from redacted website **this sc not supported multy account**
+- access-token from redacted website -  **this sc not supported multy accounts**
 ![get-token](image-1.png)
 
 ## Setup
