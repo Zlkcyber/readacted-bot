@@ -1,11 +1,16 @@
-# REDACTED AUTO COMPLETE TASK
+# REDACTED AUTO COMPLETE TASK 
 
 ![banner](image.png)
 
+## UPDATE :
+
+- SUPPORT MULTY ACCOUNTS
+
 ## Requirements
+
 - Nodejs 
 - NPM
-- access-token from redacted website -  **this sc not supported multy accounts**
+- access-token from redacted website 
 - get token here: [https://quest.redactedairways.com](https://quest.redactedairways.com/?r=O1OJ6M)
 ![get-token](image-1.png)
 
@@ -20,7 +25,7 @@
    ```bash
    npm install
    ```
-3. put token in token.txt: `eyJhbG....`
+3. put token in token.txt: `eyJhbG....` 1 line 1 token
    ```bash
    nano token.txt
    ```
